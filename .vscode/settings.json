@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
+  "python.formatting.provider": "black"
+=======
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "python.formatting.provider": "none"
+>>>>>>> refs/remotes/origin/main
 }
