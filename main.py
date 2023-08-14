@@ -1,5 +1,11 @@
 #This is a file for the class roster.
 #yan mori
+#Matthew Hays
 #Brittany Cohen
-#Blaine
-#Kaleigh
+# This is a file for the class roster.
+# Brittany Cohen
+# Ab
+# Blaine
+# Kaleigh
+
+git pull
