@@ -1,1 +1,2 @@
-#This is a file for the class roster.
+# This is a file for the class roster.
+# Joby Foster
