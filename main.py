@@ -1,11 +1,7 @@
-#This is a file for the class roster.
-#Abigail Usener
-#Matthew Hays
-#Brittany Cohen
 # This is a file for the class roster.
-# MatthewHays
 # Brittany Cohen
-# This is a file for the class roster.
+# Joby Foster
+# Matthew Hays
 # Brittany Cohen
 # RJay Pickering
 # Ab
@@ -13,3 +9,4 @@
 # Kaleigh
 # Jordan
 # Caleb
+# Abigail Usener
