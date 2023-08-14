@@ -1,4 +1,8 @@
 # jeremiah
+#This is a file for the class roster.
+#yan mori
+#Matthew Hays
+#Brittany Cohen
 # This is a file for the class roster.
 # Abigail Usener
 # Matthew Hays
@@ -15,5 +19,8 @@
 # Ab
 # Blaine
 # Kaleigh
+<<<<<<< HEAD
+
+
+=======
 # Jordan
-# Caleb
