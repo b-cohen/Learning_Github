@@ -3,7 +3,14 @@
 #Matthew Hays
 #Brittany Cohen
 # This is a file for the class roster.
+# Abigail Usener
 # Matthew Hays
+# Brittany Cohen
+# This is a file for the class roster.
+# Brittany Cohen
+# Joby Foster
+# Matthew Hays
+# MatthewHays24
 # Brittany Cohen
 # This is a file for the class roster.
 # Brittany Cohen
@@ -13,7 +20,6 @@
 # Kaleigh
 <<<<<<< HEAD
 
-git pull
+
 =======
 # Jordan
->>>>>>> bf713d90bdea596d021adcc20eea4080c3db66c2
