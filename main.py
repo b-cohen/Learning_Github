@@ -18,8 +18,4 @@
 # Ab
 # Blaine
 # Kaleigh
-<<<<<<< HEAD
-
-
-=======
 # Jordan
