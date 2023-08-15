@@ -2,7 +2,6 @@
 # Brittany Cohen
 # Joby Foster
 # Matthew Hays
-# Brittany Cohen
 # RJay Pickering
 # Ab
 # Blaine
