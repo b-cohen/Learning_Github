@@ -5,7 +5,7 @@
 # Brittany Cohen
 # RJay Pickering
 # Ab
-# Blaine
+# Blaine is cool
 # Kaleigh
 # Jordan
 # Caleb
